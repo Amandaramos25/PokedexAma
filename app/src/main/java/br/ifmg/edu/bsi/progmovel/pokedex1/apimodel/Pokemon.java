@@ -6,4 +6,6 @@ public class Pokemon {
     public int weight;
     public int id;
     public Sprites sprites;
+
+    public Species species;
 }
